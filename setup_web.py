@@ -58,7 +58,8 @@ def crear_pagina():
 
     <body>
 
-        <h1>¡Hola desde el script Python de DevOps!</h1>
+        <h1>¡Hola, bienvenido!, este es mi Servidor Web 1.</h1>
+        <p>¡Este sitio está funcionando correctamente!.</p>
 
     </body>
 
